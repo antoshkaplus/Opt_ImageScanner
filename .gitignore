@@ -1,0 +1,5 @@
+bin/
+cmake-build-*/
+.idea/
+scripts/letters/
+scores/
